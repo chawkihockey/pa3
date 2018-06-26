@@ -1,0 +1,10 @@
+UCSC Fall 2017, CMPS 101
+3rd programming assignment for Introduction to Algorithm Analysis
+
+Task of program is to create a matrix calculator using a custom linked list object to represent the matrices.
+
+List.java defines the linked list object
+ListTest.java provides testing of the class's methods
+Matrix.java defines composition of matrix based on List.java data type, and defines
+other diagnostic and operational methods for the Matrix class
+MatrixTest.java executes some tests of the Matrix.java methods
